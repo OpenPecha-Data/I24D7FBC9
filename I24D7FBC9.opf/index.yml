@@ -1,0 +1,19 @@
+id: 9175bc27f13f43d0ad61c9c5fb0f2ada
+annotation_type: index
+revision: '00001'
+annotations:
+  93b3297a38e045f898c97dff59b2c72d:
+    base: 2DCD.txt
+    Chapters:
+    - title: Title
+      span:
+        start: 0
+        end: 52
+    - title: Preface
+      span:
+        start: 53
+        end: 10394
+    - title: Colophon
+      span:
+        start: 10395
+        end: 10703
